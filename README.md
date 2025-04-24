@@ -21,23 +21,12 @@
 5. Tap on the `Connect` button to connect your wallet.
 6. On the browser, tap `Get started`.
 
-### Or watch a video demo of the product here: 
-https://www.youtube.com/watch?v=ak9hXc6-RB4
-
 # Technologies Used
 1. Front-end: `Next.js`
 2. Back-end: `Solidity (smart contract)`
 3. Deployment: `Firebase Hosting`
 
 # Important
-## Pitch Deck
-https://www.canva.com/design/DAGG0_O0wxM/O1IVq5xkZNTPR8ZJPMVGgw/view?utm_content=DAGG0_O0wxM&utm_campaign=designshare&utm_medium=link&utm_source=editor
-
-## Pitch Deck Video
-https://www.canva.com/design/DAGG0_O0wxM/O1IVq5xkZNTPR8ZJPMVGgw/view?utm_content=DAGG0_O0wxM&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
-
-## Project Demo Video
-https://www.youtube.com/watch?v=ak9hXc6-RB4
 
 ## Project Demo Link
 https://stekcit-bm.web.app
