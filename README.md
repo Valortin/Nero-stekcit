@@ -1,4 +1,4 @@
-# Nero-stekcit: Decentralized Ticketing Reimagined with NERO Chain
+# Nero-stekcit: Decentralized Ticketing with NERO Chain
 
 <p align="center">
   <img src="https://github.com/andrewkimjoseph/stekcit-bm/assets/91619206/603ecd51-6082-49e5-8a2e-7770129f8802" alt="Nero-stekcit Banner" width="800">
@@ -28,7 +28,7 @@
 
 ## 🌐 How It Works (NERO-Specific Flow)
 
-1. **Access**: Open https://stekcit.nero (no wallet needed)
+1. **Access**: Open https://stekcit-bwc.web.app (no wallet needed)
 2. **Onboard**: Sign in with Google/Email → Auto AA wallet creation
 3. **Discover**: Browse events with gas sponsorship indicators
 4. **Purchase**: 
