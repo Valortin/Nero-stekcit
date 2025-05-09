@@ -84,7 +84,7 @@ NERO-optimized MIT License (Includes NERO Chain SDK terms)
 
 ---
 
-**Demo**: [stekcit.nero](https://stekcit.nero)  
+**Demo**: [stekcit.nero](https://stekcit-bwc.web.app/)  
 **Documentation**: [NERO Integration Guide](https://docs.nerochain.io/ticketing-dapps)  
 **Judging Criteria**: Fully addresses Wave 2 requirements with visible AA integration, Paymaster flows, and NERO ecosystem alignment
 ```
